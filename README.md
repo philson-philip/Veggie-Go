@@ -1,6 +1,6 @@
 # Veggie-Go
 <p align="center">
-  <img width="500" height="500" src="logo.png">
+  <img width="300" height="300" src="logo.png">
 </p>
 <br>
 <p align="center">
